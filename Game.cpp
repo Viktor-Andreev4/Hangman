@@ -9,7 +9,7 @@
 
 using namespace std;
 
-const string PATH = "C:\\Users\\Caesar\\Desktop\\wordlist.json";
+const string PATH = "..\\..\\wordlist.json";
 fstream wordsFile;
 
 void printHangman(unsigned int tries)
